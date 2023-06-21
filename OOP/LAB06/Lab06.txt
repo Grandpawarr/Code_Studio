@@ -1,0 +1,12 @@
+Sample:
+ 1.STATIC MEMBER 
+   ->static member can be taken as a global member for this class and 
+    all objects own the same copy (or value) of the member. 
+     =>but static member value must setting outside the class 
+       and it can't be initial by constructor
+
+2.NESTED CLASS //待處理
+
+3.QUADRANGLE 
+ =>1.constructor:one with four points as arguments for the four vertices and 
+ another with two points (lower-left corner and upper-right corner) to represent a rectangle.

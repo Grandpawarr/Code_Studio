@@ -1,0 +1,3 @@
+1.The program demonstrates that a pointer is used to point the structure object.
+2.The program demonstrates that a reference type is used to reference the structure object
+3.LINKED LIST exercise

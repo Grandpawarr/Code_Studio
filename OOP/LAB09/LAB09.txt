@@ -1,0 +1,2 @@
+本章練習inheritance概念
+1.lab09_1:

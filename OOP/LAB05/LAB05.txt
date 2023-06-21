@@ -1,0 +1,8 @@
+1.CONSTRUCTOR 
+2.DESTRUCTOR 
+  -> if you use new or delete memory in the object, 
+     you need constructor to allocate memory and destructor to release it. 
+3. COPY CONSTRUCTOR 
+  ->Copy constructor is a constructor used to create a 
+    new object as a copy of an existing object. 
+ex01: VECTOR – INTEGER SET 

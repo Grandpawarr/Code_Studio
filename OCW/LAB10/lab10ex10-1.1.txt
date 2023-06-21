@@ -1,0 +1,3 @@
+I am Charles.
+I am a handsome boy.
+I love C++ programing.
